@@ -25,7 +25,7 @@ Su sistema **se basa** en la **ley de la demanda y oferta** que en resumidas cue
 
 > **Exceso de oferta**: si hay mucho *stock*, el precio de los productos bajan ya que no son comprados.
 
-> **Exceso de demanda**: si quedan pocan existencias de *x* productos, los precios suben.
+> **Exceso de demanda**: si quedan pocas existencias de *x* productos, los precios suben.
 
 De esta manera, la economía se regula sola y no tiene una dirección lineal pudiendo dar más posibilidades a esta misma.
 
